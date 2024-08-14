@@ -1,0 +1,4 @@
+name: BasicPlugin
+version: '0.1-dev'
+main: org.marvelpixel.BasicPlugin
+api-version: '1.16'
